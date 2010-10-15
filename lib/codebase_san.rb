@@ -1,0 +1,1 @@
+require 'codebase_san/railtie' if defined?(Rails)
