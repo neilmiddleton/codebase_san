@@ -11,9 +11,9 @@ Installation
 
 Add the following to your Gemfile:
 
-`group :development do
-  gem 'codebase_san'
-end`
+  group :development do  
+    gem 'codebase_san'  
+  end
 
 This gem must only be used in applications that use Heroku, CodebaseHQ and Git.  You may be asked to configure the codebase gem on first use.
 
