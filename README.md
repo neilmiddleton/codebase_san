@@ -17,6 +17,8 @@ Add the following to your Gemfile:
 
 This gem must only be used in applications that use Heroku, CodebaseHQ and Git.  You may be asked to configure the codebase gem on first use.
 
+Note: This requires that you are using git 1.7.2 or above.
+
 Note on Patches/Pull Requests
 -----------------------------
 
